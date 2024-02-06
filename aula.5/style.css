@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.container {
+display: flex;
+justify-content: center;
+
+
+
+}
+.time{
+    
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+.clube{
+    border: 10px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    width: 220px;
+}
+h1{
+    text-align: center;
+}
